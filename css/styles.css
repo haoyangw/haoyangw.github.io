@@ -1,0 +1,35 @@
+.body-wrapper {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+.content-wrapper {
+	padding-left: 2%;
+	margin-top: 0;
+}
+.header {
+	margin: 0;
+	height: 20%;
+	text-align: center;
+	position: relative;
+	display: table;
+	width: 100%;
+}
+
+.center-text {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.cell {
+	display: table-cell;
+}
+
+.space {
+	padding-left: 15px;
+}
+
+a {
+	white-space:nowrap;
+}
